@@ -22,7 +22,6 @@ class AgentState(TypedDict):
     messages: Annotated[list, add_messages]
 
 # LLM INIT
-
 tool_list = [search_flights, search_hotels, calculate_budget]
 
 model = ChatGoogleGenerativeAI(
@@ -63,7 +62,6 @@ memory = MemorySaver()
 graph = graph_builder.compile(checkpointer=memory)
 
 # LOOP
-
 if __name__ == "__main__":
     print("="*60)
     print("TravelBuddy AI Agent")
@@ -89,5 +87,5 @@ if __name__ == "__main__":
         else:
             final = raw_content
 
-            
+
         print(f"\nTravelBuddy: {final}")
