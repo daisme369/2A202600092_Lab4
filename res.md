@@ -29,17 +29,6 @@ Response: Tuyệt vời! Từ Hà Nội đi Đà Nẵng có mấy lựa chọn c
 
 Bạn muốn đi vào ngày nào và có ngân sách khoảng bao nhiêu để mình tìm thêm khách sạn và tính toán tổng chi phí cho tiện nhé?
 
-TravelBuddy: Tuyệt vời! Từ Hà Nội đi Đà Nẵng có mấy lựa chọn cho bạn đây:
-
-*   **Vietnam Airlines:**
-    *   Chuyến 06:00 - 07:20, giá 1.450.000đ (hạng economy)
-    *   Chuyến 14:00 - 15:20, giá 2.800.000đ (hạng business)
-*   **VietJet Air:**
-    *   Chuyến 08:30 - 09:50, giá 890.000đ (hạng economy)
-*   **Bamboo Airways:**
-    *   Chuyến 11:00 - 12:20, giá 1.200.000đ (hạng economy)
-
-Bạn muốn đi vào ngày nào và có ngân sách khoảng bao nhiêu để mình tìm thêm khách sạn và tính toán tổng chi phí cho tiện nhé?
 
 # [TEST CASE 3]
 Bạn: Tôi ở Hà Nội, muốn đi Phú Quốc 2 đêm, budget 5 triệu. Tư vấn giúp!
